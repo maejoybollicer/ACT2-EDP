@@ -1,0 +1,29 @@
+
+.card-header {
+    background: linear-gradient(white,red);
+    height: 50px;
+    color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+
+}.image img{
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid green;
+ }
+ li{
+     display: block;
+     border-bottom: 1px solid gray;
+ }
+ .card-body{
+     background: linear-gradient(white,green);
+ }
+.card-footer {
+    background: linear-gradient(white,red);
+    height: 50px;
+    color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+
+}
